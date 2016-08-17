@@ -1,0 +1,14 @@
+name: walter
+layout_spectrum: 0.6274391987054018
+typography_spectrum: 0.3310630348757698
+color:
+  brandColors:
+    - '#105B63'
+    - '#FFFAD5'
+    - '#FFD34E'
+    - '#DB9E36'
+    - '#BD4932'
+  brandStrength: 0.616473729499242
+  lightness: 0.21611543835323388
+  saturation: 0.5475777617320884
+  rhythmicContrast: 0.9307755993054772
